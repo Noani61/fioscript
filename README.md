@@ -9,7 +9,7 @@ Make sure you have:
 - Python 3+ (with matplotlib and numpy)
 
 # Run scripts manually
-To run FIO on a device manually use the runfio.sh script:
+To run FIO on a device manually use the runfio.py script:
 ```
 Usage:
       python3 runfio.py -d <device> -n <njobs> -i <iodepth> -f <script> -o <output-dir> [-h]
